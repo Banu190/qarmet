@@ -1,0 +1,11 @@
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
+backend/__pycache__/
+backend/app/__pycache__/
+backend/.venv/
+backend/data.json
+backend/data.json.tmp
+backend/data.json.pre-fleet-backup
+.env
+*.pyc

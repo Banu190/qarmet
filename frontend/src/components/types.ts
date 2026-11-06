@@ -1,0 +1,1 @@
+export type Order={id:string;employee_name:string;driver_name?:string;stops?:{address:string;latitude?:number|null;longitude?:number|null}[];pickup:string;destination:string;status:string;passengers:number;pickup_latitude?:number|null;pickup_longitude?:number|null;destination_latitude?:number|null;destination_longitude?:number|null};
